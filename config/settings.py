@@ -1,0 +1,5 @@
+WALLET_ADDRESS = "0xYourWallet"
+
+WHALE_THRESHOLD = 100000
+
+DATA_DIR = "data"

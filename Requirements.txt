@@ -1,0 +1,6 @@
+web3
+requests
+pandas
+matplotlib
+python-dotenv
+jupyter
